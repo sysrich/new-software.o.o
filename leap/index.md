@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Download openSUSE Leap
-#subtitle: Download the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
+title: openSUSE Leap
+subtitle: Download the latest version of openSUSE Leap, for desktop PCs, laptops, and servers. 
 ---
