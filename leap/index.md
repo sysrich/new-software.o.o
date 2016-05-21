@@ -3,29 +3,21 @@ layout: page
 title: Leap
 subtitle: Download the latest version of openSUSE Leap, for desktop PCs, laptops, and servers. 
 ---
-Recommended system requirements:
-
-* 2 Ghz dual core processor or better
-* 2 GB system memory
-* Over 40GB of free hard drive space
-* Either a DVD drive or USB port for the installation media
-* Internet access is helpful, and required for the Network Installer
-
 ## Installation Media - x86_64
 
 | Leap 42.1 | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
-| DVD/USB Stick | 4.7GB | [Direct Link >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) [BitTorrent >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) [Metalink >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) [Pick Mirror >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256 >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
-| Network CD/USB Stick | 85MB | [Direct Link >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) [Metalink >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) [Pick Mirror >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256 >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
-
-## openSUSE Leap on other architectures
-openSUSE Leap is also available on other architectures, such as AArch64 (aka ARMv8) and PPC64. [Get openSUSE Leap for other architectures >]({{ site.url }}/leap/ports)
+| DVD/USB Stick | 4.7GB | [Direct Link >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256 >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256 >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
 
 ## Choosing which Media to Download
 
 The DVD/USB Stick is typically recommended as it contains most of the packages available in the distribution and does not require a network connection during the installation.
 
 The Network CD/USB Stick is recommended for users who have limited bandwidth on their internet connections, as it will only download the packages they choose to install, which is likely to be significantly less than 4.7GB.
+
+## openSUSE Leap on other architectures
+openSUSE Leap is also available on other architectures, such as AArch64 (aka ARMv8) and PPC64. [Get openSUSE Leap for other architectures >]({{ site.url }}/leap/ports)
 
 ## Easy ways to switch to openSUSE Leap
 
@@ -45,4 +37,12 @@ Many applications can verify the checksum of a download. To verify your download
 
 For each ISO, we offer a checksum file with the corresponding SHA256 sum. 
 
-For extra security, you can use GPG to verify who signed those .sha256 files. It should be 22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284. 
+For extra security, you can use GPG to verify who signed those .sha256 files. It should be 22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284.
+
+## Recommended System Requirements
+
+* 2 Ghz dual core processor or better
+* 2 GB system memory
+* Over 40GB of free hard drive space
+* Either a DVD drive or USB port for the installation media
+* Internet access is helpful, and required for the Network Installer
