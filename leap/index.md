@@ -12,6 +12,7 @@ Recommended system requirements:
 * Internet access is helpful, and required for the Network Installer
 
 ## Installation Media - x86_64
+
 | Leap 42.1 | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
 | DVD/USB Stick | 4.7GB | [Direct Link >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) [BitTorrent >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) [Metalink >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) [Pick Mirror >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256 >](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
