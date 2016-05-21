@@ -8,8 +8,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://sysrich.github.io/new-software.o.o"
-baseurl: ""
+url: "http://sysrich.github.io"
+baseurl: "/new-software.o.o"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -77,12 +77,10 @@ url-pretty: "download.opensuse.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Berlin"
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-redcarpet:
-  extensions: ["tables", "autolink", "strikethrough", "superscript", "underline", "highlight", "no_intra_emphasis", "space_after_headers", "smart"]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
