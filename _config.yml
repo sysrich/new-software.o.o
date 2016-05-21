@@ -47,7 +47,7 @@ author:
   github: openSUSE    # eg. daattali
   twitter: openSUSE  # eg. daattali
   linkedin: /company/opensuse-project  # eg. "pub/dean-attali/8/946/143"
-  googleplus: openSUSE # eg. "+RichardBrownSYS"
+  googleplus: +openSUSE # eg. "+RichardBrownSYS"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
