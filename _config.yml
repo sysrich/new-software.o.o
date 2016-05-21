@@ -8,7 +8,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://username.github.io"
+url: "http://sysrich.github.io/new-software.o.o"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -18,10 +18,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MyOpenSUSEBlog
+title: Download openSUSE
 
 # Short description of your site
-description: My Blog about openSUSE and other cool FOSS stuff.
+description: Download openSUSE Here.
 
 # --- Navigation bar options --- #
 
@@ -63,7 +63,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "username.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "download.opensuse.org"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -77,10 +77,12 @@ url-pretty: "username.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Berlin"
-markdown: kramdown
+markdown: redcarpet
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "superscript", "underline", "highlight", "no_intra_emphasis", "space_after_headers", "smart"]
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
