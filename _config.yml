@@ -29,6 +29,7 @@ description: Get the version you need. Download openSUSE Tumbleweed. Download op
 navbar-links:
   Tumbleweed: "tumbleweed"
   Leap: "leap"
+  In-Development: "leap-next"
   Package Search: "https://software.opensuse.org/search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -40,19 +41,19 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: yourname
-  email: "youremail@wherever.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname  # eg. daattali
-  linkedin: yourname  # eg. "pub/dean-attali/8/946/143"
-  googleplus: yourname # eg. "+RichardBrownSYS"
+  name: openSUSE
+  email: "opensuse-project@opensuse.org"
+  facebook: en.openSUSE  # eg. daattali
+  github: openSUSE    # eg. daattali
+  twitter: openSUSE  # eg. daattali
+  linkedin: /company/opensuse-project  # eg. "pub/dean-attali/8/946/143"
+  googleplus: openSUSE # eg. "+RichardBrownSYS"
   stackoverflow: yourlink  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
-  rss: true
-  facebook: false
+  rss: false
+  facebook: true
   email: false
   twitter: true
   github: true
