@@ -18,19 +18,18 @@ baseurl: "/new-software.o.o"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Download openSUSE
+title: Get openSUSE
 
 # Short description of your site
-description: Download openSUSE Here.
+description: Get the version you need. Download openSUSE Tumbleweed. Download openSUSE Leap. Download openSUSE Alpha, Beta, and RC Development Versions.
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Stuff I Work On:
-    - openSUSE: "https://www.opensuse.org"
-    - openQA: "https://openqa.opensuse.org"
+  Tumbleweed: "tumbleweed"
+  Leap: "leap"
+  Package Search: "https://software.opensuse.org/search"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
