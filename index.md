@@ -7,6 +7,7 @@ subtitle: openSUSE is completely free to download, use and share.
 | --------------------------------------- | --------------------------- |
 | Download openSUSE's rolling release and always run the latest packages provided by the openSUSE Project. | Download openSUSE's regular release and enjoy the benefits of both enterprise-grade engineering and community-developed innovation. |
 
+***
 
 | [Testing]({{ site.url }}/testing) |
 | --------------------------------- |
@@ -14,7 +15,7 @@ subtitle: openSUSE is completely free to download, use and share.
 
 ***
 
-## Chosing which distribution to download
+## Chosing which Distribution to Download
 
 [openSUSE Tumbleweed]({{ site.url}}/tumbleweed) is a **rolling-release**. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software.  
 Tumbleweed is recommended for **Developers**, **openSUSE Contributors**, and **Linux/FOSS Enthusiasts**.
