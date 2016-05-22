@@ -12,6 +12,8 @@ subtitle: openSUSE is completely free to download, use and share.
 | --------------------------------- |
 | Help test openSUSE's next version of Leap by downloading the latest development milestone. |
 
+***
+
 ## Chosing which distribution to download
 
 [openSUSE Tumbleweed]({{ site.url}}/tumbleweed) is a **rolling-release**. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software.  
@@ -25,6 +27,8 @@ Both distributions are fully capable to be used on a Desktop PC, laptop, server,
 
 **If you are still not sure, download [openSUSE Leap]({{ site.url}}/leap)**  
 It is easy to switch to [openSUSE Tumbleweed]({{ site.url }}/tumbleweed) if you change your mind later.
+
+***
 
 
 | [Derivatives](https://en.opensuse.org/Derivatives) |
