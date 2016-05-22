@@ -37,7 +37,7 @@ Many applications can verify the checksum of a download. To verify your download
 
 For each ISO, we offer a checksum file with the corresponding SHA256 sum. 
 
-For extra security, you can use GPG to verify who signed those .sha256 files. It should be 22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284.
+For extra security, you can use GPG to verify who signed those .sha256 files. It should be [*22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284*](http://keyserver.opensuse.org/pks/lookup?search=0x3DBDC284&fingerprint=on&op=vindex).
 
 ## Recommended System Requirements
 

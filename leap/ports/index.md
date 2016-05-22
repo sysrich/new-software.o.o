@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Leap
-subtitle: Download the latest version of openSUSE Leap, for desktop PCs, laptops, and servers. 
+title: Leap Ports
+subtitle: Download alternative architecture versions of openSUSE Leap, for desktop PCs, laptops, and servers. 
 ---
-## Installation Media - Intel 64-bit (x86_64)
+## Installation Media - PowerPC Little Endian (ppc64le)
+
+| Leap 42.1 | Size | Download Method | Checksum |
+| --------- | ---- | --------------- | -------- |
+| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
+
+
+## Installation Media - ARMv8 64-bit (aarch64)
 
 | Leap 42.1 | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
@@ -37,7 +45,7 @@ Many applications can verify the checksum of a download. To verify your download
 
 For each ISO, we offer a checksum file with the corresponding SHA256 sum. 
 
-For extra security, you can use GPG to verify who signed those .sha256 files. It should be 22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284.
+For extra security, you can use GPG to verify who signed those .sha256 files. It should be [*22C0 7BA5 3417 8CD0 2EFE 22AA B88B 2FD4 3DBD C284*](http://keyserver.opensuse.org/pks/lookup?search=0x3DBDC284&fingerprint=on&op=vindex).
 
 ## Recommended System Requirements
 
