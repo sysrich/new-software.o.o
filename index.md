@@ -3,7 +3,7 @@ layout: page
 title: Get openSUSE
 subtitle: openSUSE is completely free to download, use and share. 
 ---
-| ![Tumbleweed Logo]({{ site.url }}/img/Tumbleweed-green.png) [Tumbleweed]({{ site.url }}/tumbleweed) | ![Leap Logo]({{ site.url }}/img/Leap-green.png) [Leap]({{ site.url }}/leap) |
+| ![Tumbleweed Logo]({{ site.url }}/img/Tumbleweed-black.png) [Tumbleweed]({{ site.url }}/tumbleweed) | ![Leap Logo]({{ site.url }}/img/Leap-black.png) [Leap]({{ site.url }}/leap) |
 | --------------------------------------- | --------------------------- |
 | Download openSUSE's rolling release and always run the latest packages provided by the openSUSE Project. | Download openSUSE's regular release and enjoy the benefits of both enterprise-grade engineering and community-developed innovation. |
 
