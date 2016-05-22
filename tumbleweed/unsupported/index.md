@@ -4,17 +4,27 @@ title: Tumbleweed LiveUSBs
 subtitle: Download the LiveUSBs of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
 ---
 
-## Please Note: These LiveUSB's are not supported
+## Please Note: These LiveUSBs are not supported
 
-* These LiveUSBs cannot be used to install or upgrade Tumbleweed. Please use [the Tumbleweed installation media](tumbleweed/) instead.
-* These LiveUSBs have a limited package/driver selection, so cannot be considered an accurate judge as to whether Tumbleweed will work on your hardware or not.
+* They cannot be used to install or upgrade Tumbleweed. Please use [the Tumbleweed installation media]({{ site.url}}/tumbleweed/) instead.
+* They have a limited package/driver selection, so cannot be considered an accurate reflection as to whether Tumbleweed will work on your hardware or not.
+* They are not tested as thoroughly as the [the Tumbleweed installation media]({{ site.url}}/tumbleweed/). Please review [openQA's](https://openqa.opensuse.org/) test results if you want an indication whether these LiveUSBs are working as expected.
 
-## Installation Media - Intel 64-bit (x86_64)
+## LiveUSB Media - Intel 64-bit (x86_64)
 
 | Tumbleweed | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
-| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256) |
-| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256) |
+| GNOME | 950MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-x86_64-Current.iso.sha256) |
+| KDE | 950MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-x86_64-Current.iso.sha256) |
+| Rescue | 650MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-x86_64-Current.iso.sha256) |
+
+## LiveUSB Media - Intel 32-bit (i686)
+
+| Tumbleweed | Size | Download Method | Checksum |
+| --------- | ---- | --------------- | -------- |
+| GNOME | 950MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-i686-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-i686-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-i686-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-GNOME-Live-i686-Current.iso.sha256) |
+| KDE | 950MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-i686-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-i686-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-i686-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-KDE-Live-i686-Current.iso.sha256) |
+| Rescue | 650MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-i686-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-i686-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-i686-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-Rescue-CD-i686-Current.iso.sha256) |
 
 ## Documentation
 

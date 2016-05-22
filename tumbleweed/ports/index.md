@@ -3,20 +3,26 @@ layout: page
 title: Tumbleweed Ports
 subtitle: Download alternative architecture of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
 ---
+## Installation Media - Intel 32-bit (i586)
+
+| Tumbleweed | Size | Download Method | Checksum |
+| --------- | ---- | --------------- | -------- |
+| DVD/USB Stick | 2.9GB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-i586-Current.iso) \| [BitTorrent](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-i586-Current.iso.torrent) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-i586-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-i586-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-i586-Current.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-i586-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-i586-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-i586-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-i586-Current.iso.sha256) |
+
 ## Installation Media - PowerPC Little Endian (ppc64le)
 
 | Tumbleweed | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
-| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
-| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
+| DVD/USB Stick | 2.9GB | [Direct Link](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64le-Current.iso) \| [BitTorrent](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64le-Current.iso.torrent) \| [Metalink](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64le-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64le-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64le-Current.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64le-Current.iso) \| [Metalink](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64le-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64le-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64le-Current.iso.sha256) |
 
 ## Installation Media - PowerPC Big Endian (ppc64)
 
 | Tumbleweed | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
-| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
-| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
-
+| DVD/USB Stick | 2.9GB | [Direct Link](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64-Current.iso) \| [BitTorrent](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64-Current.iso.torrent) \| [Metalink](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-DVD-ppc64-Current.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64-Current.iso) \| [Metalink](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/ppc/tumbleweed/iso/openSUSE-Tumbleweed-NET-ppc64-Current.iso.sha256) |
 
 ## Choosing which Media to Download
 

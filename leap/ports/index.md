@@ -10,7 +10,6 @@ subtitle: Download alternative architecture versions of openSUSE Leap, for deskt
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
 
-
 ## Installation Media - ARMv8 64-bit (aarch64)
 
 | Leap 42.1 | Size | Download Method | Checksum |
