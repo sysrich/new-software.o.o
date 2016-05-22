@@ -13,7 +13,7 @@ subtitle: Download the rolling version of openSUSE, for desktop PCs, laptops, an
 openSUSE Tumbleweed is also available on other architectures, such as Intel 32-bit (aka i586), AArch64 (aka ARMv8) and PPC64.  
 [Get openSUSE Tumbleweed for other architectures.]({{ site.url }}/tumbleweed/ports)
 
-## Choosing which Media to Download
+## Choosing Which Media to Download
 
 The DVD/USB Stick is typically recommended as it contains most of the packages available in the distribution and does not require a network connection during the installation.
 
@@ -22,7 +22,7 @@ The Network CD/USB Stick is recommended for users who have limited bandwidth on 
 ## Unsupported LiveUSBs
 openSUSE Tumbleweed also offers a number of unsupported LiveUSBs. These cannot be used for Installation or Upgrade. They are not an accurate reflection as to whether or not Tumbleweed will run on your hardware. [Get Unsupported Tumbleweed LiveCDs.]({{ site.url }}/tumbleweed/unsupported)
 
-## Easy ways to switch to openSUSE Tumbleweed
+## Easy Ways to Switch to openSUSE Tumbleweed
 
 If you're already running openSUSE you can upgrade by booting from the DVD/USB and choosing upgrade, or carry out an 'Online Upgrade' in a few commands. [Upgrade Instructions.](https://en.opensuse.org/openSUSE:Tumbleweed_upgrade)
 
@@ -35,7 +35,7 @@ If you're already running openSUSE you can upgrade by booting from the DVD/USB a
 
 | [openSUSE Startup Guide](https://doc.opensuse.org/documentation/leap/startup/single-html/book.opensuse.startup/index.html) | [Release Notes](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Tumbleweed/) | [License](https://en.opensuse.org/openSUSE:License) | [Full Documentation](https://doc.opensuse.org) |
 
-## Verify your download before use
+## Verify Your Download Before Use
 
 Many applications can verify the checksum of a download. To verify your download can be important as it verifies you really have got the ISO file you wanted to download and not some broken version. You could verify the file in the process of downloading. For example a checksum (SHA256) will be used automatically if you choose Metalink in the field above and use the add-on DownThemAll! in Firefox.
 

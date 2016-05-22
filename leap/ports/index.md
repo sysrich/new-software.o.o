@@ -17,13 +17,13 @@ subtitle: Download alternative architecture versions of openSUSE Leap, for deskt
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-aarch64.iso) \| [Metalink](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-aarch64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-aarch64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-aarch64.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-aarch64.iso) \| [Metalink](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-aarch64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-aarch64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/ports/aarch64/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-aarch64.iso.sha256) |
 
-## Choosing which Media to Download
+## Choosing Which Media to Download
 
 The DVD/USB Stick is typically recommended as it contains most of the packages available in the distribution and does not require a network connection during the installation.
 
 The Network CD/USB Stick is recommended for users who have limited bandwidth on their internet connections, as it will only download the packages they choose to install, which is likely to be significantly less than 4.7GB.
 
-## Easy ways to switch to openSUSE Leap
+## Easy Ways to Switch to openSUSE Leap
 
 If you're already running openSUSE you can upgrade by booting from the DVD/USB and choosing upgrade, or carry out an 'Online Upgrade' in a few commands. [Online Upgrade Instructions.](https://en.opensuse.org/SDB:System_upgrade)
 
@@ -36,7 +36,7 @@ If you're already running openSUSE you can upgrade by booting from the DVD/USB a
 
 | [openSUSE Startup Guide](https://doc.opensuse.org/documentation/leap/startup/single-html/book.opensuse.startup/index.html) | [Release Notes](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/) | [License](https://en.opensuse.org/openSUSE:License) | [Full Documentation](https://doc.opensuse.org) |
 
-## Verify your download before use
+## Verify Your Download Before Use
 
 Many applications can verify the checksum of a download. To verify your download can be important as it verifies you really have got the ISO file you wanted to download and not some broken version. You could verify the file in the process of downloading. For example a checksum (SHA256) will be used automatically if you choose Metalink in the field above and use the add-on DownThemAll! in Firefox.
 

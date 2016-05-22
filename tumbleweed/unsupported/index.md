@@ -30,7 +30,7 @@ subtitle: Download the LiveUSBs of the rolling version of openSUSE, for desktop 
 
 | [openSUSE Startup Guide](https://doc.opensuse.org/documentation/leap/startup/single-html/book.opensuse.startup/index.html) | [Release Notes](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Tumbleweed/) | [License](https://en.opensuse.org/openSUSE:License) | [Full Documentation](https://doc.opensuse.org) |
 
-## Verify your download before use
+## Verify Your Download Before Use
 
 Many applications can verify the checksum of a download. To verify your download can be important as it verifies you really have got the ISO file you wanted to download and not some broken version. You could verify the file in the process of downloading. For example a checksum (SHA256) will be used automatically if you choose Metalink in the field above and use the add-on DownThemAll! in Firefox.
 
