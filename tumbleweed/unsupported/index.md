@@ -1,35 +1,20 @@
 ---
 layout: page
-title: Tumbleweed
-subtitle: Download the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
+title: Tumbleweed LiveUSBs
+subtitle: Download the LiveUSBs of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
 ---
+
+## Please Note: These LiveUSB's are not supported
+
+* These LiveUSBs cannot be used to install or upgrade Tumbleweed. Please use [the Tumbleweed installation media](tumbleweed/) instead.
+* These LiveUSBs have a limited package/driver selection, so cannot be considered an accurate judge as to whether Tumbleweed will work on your hardware or not.
+
 ## Installation Media - Intel 64-bit (x86_64)
 
 | Tumbleweed | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256) |
-
-openSUSE Tumbleweed is also available on other architectures, such as Intel 32-bit (aka i586), AArch64 (aka ARMv8) and PPC64.  
-[Get openSUSE Tumbleweed for other architectures.]({{ site.url }}/tumbleweed/ports)
-
-## Choosing which Media to Download
-
-The DVD/USB Stick is typically recommended as it contains most of the packages available in the distribution and does not require a network connection during the installation.
-
-The Network CD/USB Stick is recommended for users who have limited bandwidth on their internet connections, as it will only download the packages they choose to install, which is likely to be significantly less than 4.7GB.
-
-## Unsupported LiveUSBs
-openSUSE Tumbleweed also offers a number of unsupported LiveUSBs. These cannot be used for Installation or Upgrade. They are not an accurate reflection as to whether or not Tumbleweed will run on your hardware. [Get Unsupported Tumbleweed LiveCDs.]({{ site.url }}/tumbleweed/unsupported)
-
-## Easy ways to switch to openSUSE Tumbleweed
-
-If you're already running openSUSE you can upgrade by booting from the DVD/USB and choosing upgrade, or carry out an 'Online Upgrade' in a few commands. [Upgrade Instructions.](https://en.opensuse.org/openSUSE:Tumbleweed_upgrade)
-
-| From an older version or other Linux distro | From Windows | From OS X |
-| --------------------- | ------------ | --------- |
-| [How to burn a DVD on Linux.](https://en.opensuse.org/SDB:Download_help#Using_Linux) | [How to burn a DVD on Windows.](https://en.opensuse.org/SDB:Download_help#Using_Microsoft_Windows) | [How to burn a DVD on OS X.](https://en.opensuse.org/SDB:Download_help#Using_MacOS_X_.2810.3_and_above.29) |
-| [How to create a bootable USB stick on Linux.](https://en.opensuse.org/SDB:Live_USB_stick) | [How to create a Bootable USB stick on Windows.](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows) | [How to create a bootable USB stick on OS X.](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Mac_OS_x) |
 
 ## Documentation
 

@@ -1,17 +1,22 @@
 ---
 layout: page
-title: Tumbleweed
-subtitle: Download the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
+title: Tumbleweed Ports
+subtitle: Download alternative architecture of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
 ---
-## Installation Media - Intel 64-bit (x86_64)
+## Installation Media - PowerPC Little Endian (ppc64le)
 
 | Tumbleweed | Size | Download Method | Checksum |
 | --------- | ---- | --------------- | -------- |
-| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256) |
-| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256) |
+| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
 
-openSUSE Tumbleweed is also available on other architectures, such as Intel 32-bit (aka i586), AArch64 (aka ARMv8) and PPC64.  
-[Get openSUSE Tumbleweed for other architectures.]({{ site.url }}/tumbleweed/ports)
+## Installation Media - PowerPC Big Endian (ppc64)
+
+| Tumbleweed | Size | Download Method | Checksum |
+| --------- | ---- | --------------- | -------- |
+| DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
+| Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
+
 
 ## Choosing which Media to Download
 
@@ -19,8 +24,8 @@ The DVD/USB Stick is typically recommended as it contains most of the packages a
 
 The Network CD/USB Stick is recommended for users who have limited bandwidth on their internet connections, as it will only download the packages they choose to install, which is likely to be significantly less than 4.7GB.
 
-## Unsupported LiveUSBs
-openSUSE Tumbleweed also offers a number of unsupported LiveUSBs. These cannot be used for Installation or Upgrade. They are not an accurate reflection as to whether or not Tumbleweed will run on your hardware. [Get Unsupported Tumbleweed LiveCDs.]({{ site.url }}/tumbleweed/unsupported)
+## Unsupported LiveCDs
+openSUSE Tumbleweed also offers a number of unsupported LiveCDs. These cannot be used for Installation or Upgrade. They are not an accurate reflection as to whether or not Tumbleweed will run on your hardware. [Get Unsupported Tumbleweed LiveCDs.]({{ site.url }}/tumbleweed/unsupported)
 
 ## Easy ways to switch to openSUSE Tumbleweed
 
