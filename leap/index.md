@@ -21,11 +21,12 @@ The Network CD/USB Stick is recommended for users who have limited bandwidth on 
 
 ## Easy ways to switch to openSUSE Leap
 
-| From an older version | From Windows | From OS X |
+If you're already running openSUSE you can upgrade by booting from the DVD/USB and choosing upgrade, or carry out an 'Online Upgrade' in a few commands. [Online Upgrade Instructions.](https://en.opensuse.org/SDB:System_upgrade)
+
+| From an older version or other Linux distro | From Windows | From OS X |
 | --------------------- | ------------ | --------- |
-| If you're already running openSUSE you can upgrade in a few commands |   |   |
-| How to burn a DVD on openSUSE | How to burn a DVD on Windows | How to burn a DVD on OS X |
-| How to create a bootable USB stick on openSUSE | How to create a Bootable USB stick on Windows | How to create a bootable USB stick on OS X |
+| [How to burn a DVD on Linux.](https://en.opensuse.org/SDB:Download_help#Using_Linux) | [How to burn a DVD on Windows.](https://en.opensuse.org/SDB:Download_help#Using_Microsoft_Windows) | [How to burn a DVD on OS X.](https://en.opensuse.org/SDB:Download_help#Using_MacOS_X_.2810.3_and_above.29) |
+| [How to create a bootable USB stick on Linux.](https://en.opensuse.org/SDB:Live_USB_stick) | [How to create a Bootable USB stick on Windows.](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Windows) | [How to create a bootable USB stick on OS X.](https://en.opensuse.org/SDB:Create_a_Live_USB_stick_using_Mac_OS_x) |
 
 ## Documentation
 
