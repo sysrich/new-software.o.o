@@ -23,7 +23,8 @@ Leap is recommended for **Sysadmins**, **Enterprise Developers**, and **'Regular
 Both distributions are well tested by [openQA](https://openqa.opensuse.org) as was as by human openSUSE contributors so both can be relied upon to work.  
 Both distributions are fully capable to be used on a Desktop PC, laptop, server, or in the cloud.
 
-**If you are still not sure, download [openSUSE Leap]({{ site.url}}/leap)**
+**If you are still not sure, download [openSUSE Leap]({{ site.url}}/leap)**  
+It is easy to switch to [openSUSE Tumbleweed]({{ site.url }}/tumbleweed) if you change your mind later.
 
 
 | [Derivatives](https://en.opensuse.org/Derivatives) |
