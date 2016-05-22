@@ -28,7 +28,7 @@ Both distributions are well tested by [openQA](https://openqa.opensuse.org) as w
 Both distributions are fully capable of being used on a Desktop PC, laptop, server, or in the cloud.
 
 **If you are still not sure, download [openSUSE Leap](leap)**  
-It is easy to switch to [openSUSE Tumbleweed](tumbleweed) if you change your mind later.
+It is easy to [switch to openSUSE Tumbleweed](https://en.opensuse.org/openSUSE:Tumbleweed_upgrade) if you change your mind later.
 
 ***
 
