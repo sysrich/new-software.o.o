@@ -7,22 +7,23 @@ subtitle: openSUSE is completely free to download, use and share.
 | --------------------------------------- | --------------------------- |
 | Download openSUSE's rolling release and always run the latest packages provided by the openSUSE Project. | Download openSUSE's regular release and enjoy the benefits of both enterprise-grade engineering and community-developed innovation. |
 
+
 | [Testing]({{ site.url }}/testing) |
 | --------------------------------- |
 | Help test openSUSE's next version of Leap by downloading the latest development milestone. |
 
 ## Chosing which distribution to download
 
-[openSUSE Tumbleweed]({{ site.url}}/tumbleweed) is a **rolling-release**. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software. It is recommended for **Developers**, **openSUSE Contributors**, and **Linux/FOSS Enthusiasts**.
+[openSUSE Tumbleweed]({{ site.url}}/tumbleweed) is a **rolling-release**. This means the software is always the latest stable versions available from the openSUSE Project. Things will change regularly as Free and Open Source projects continually release new versions of their software.  
+Tumbleweed is recommended for **Developers**, **openSUSE Contributors**, and **Linux/FOSS Enthusiasts**.
 
-[openSUSE Leap]({{ site.url}}/leap) is a **regular-release**. This means it releases [annually](https://en.opensuse.org/openSUSE:Roadmap), with security and stability updates being the priority during the release's [lifetime](https://en.opensuse.org/Lifetime). It is not expected to change in any major way until it's next annual release. It is recommended for **Sysadmins**, **Enterprise Developers**, and **'Regular' Desktop Users**.
+[openSUSE Leap]({{ site.url}}/leap) is a **regular-release**. This means it releases [annually](https://en.opensuse.org/openSUSE:Roadmap), with security and stability updates being the priority during the release's [lifetime](https://en.opensuse.org/Lifetime). It is not expected to change in any major way until it's next annual release.  
+Leap is recommended for **Sysadmins**, **Enterprise Developers**, and **'Regular' Desktop Users**.
 
 Both distributions are well tested by [openQA](https://openqa.opensuse.org) as was as by human openSUSE contributors so both can be relied upon to work.  
 Both distributions are fully capable to be used on a Desktop PC, laptop, server, or in the cloud.
 
 **If you are still not sure, download [openSUSE Leap]({{ site.url}}/leap)**
-
-***
 
 
 | [Derivatives](https://en.opensuse.org/Derivatives) |
