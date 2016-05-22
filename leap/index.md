@@ -10,7 +10,8 @@ subtitle: Download the latest version of openSUSE Leap, for desktop PCs, laptops
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso) \| [BitTorrent](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.torrent) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-DVD-x86_64.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso) \| [Metalink](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso?mirrorlist) | [SHA256](http://download.opensuse.org/distribution/leap/42.1/iso/openSUSE-Leap-42.1-NET-x86_64.iso.sha256) |
 
-[openSUSE Leap is also available on other architectures, such as AArch64 (aka ARMv8) and PPC64. ]({{ site.url }}/leap/ports)
+openSUSE Leap is also available on other architectures, such as AArch64 (aka ARMv8) and PPC64.  
+[Get openSUSE Leap for other architectures.]({{ site.url }}/leap/ports)
 
 ## Choosing which Media to Download
 

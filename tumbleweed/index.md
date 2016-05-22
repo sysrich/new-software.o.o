@@ -10,7 +10,8 @@ subtitle: Download the rolling version of openSUSE, for desktop PCs, laptops, an
 | DVD/USB Stick | 4.7GB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-DVD-x86_64-Current.iso.sha256) |
 | Network CD/USB Stick | 85MB | [Direct Link](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso) \| [Metalink](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.meta4) \| [Pick Mirror](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso?mirrorlist) | [SHA256](http://download.opensuse.org/tumbleweed/iso/openSUSE-Tumbleweed-NET-x86_64-Current.iso.sha256) |
 
-[openSUSE Tumbleweed is also available on other architectures, such as Intel 32-bit (aka i586), AArch64 (aka ARMv8) and PPC64.]({{ site.url }}/tumbleweed/ports)
+openSUSE Tumbleweed is also available on other architectures, such as Intel 32-bit (aka i586), AArch64 (aka ARMv8) and PPC64.  
+[Get openSUSE Tumbleweed for other architectures.]({{ site.url }}/tumbleweed/ports)
 
 ## Choosing which Media to Download
 
