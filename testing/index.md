@@ -3,12 +3,12 @@ layout: page
 title: Test openSUSE
 subtitle: Help test the next version of openSUSE Leap, the regular-release distribution for desktop PCs, laptops, and servers. 
 ---
-
+<!--
 # No new version of Leap is currently being tested, thanks for your interest!
 
 Please join the opensuse-factory@opensuse.org [Mailing List](https://en.opensuse.org/openSUSE:Mailing_lists) and keep an eye on [openSUSE News](https://news.opensuse.org) for news & discussion about openSUSE's developments.
+-->
 
-<!--
 # Currently testing openSUSE Leap 42.2 Alpha 1
 
 This is not a supported release. It is provided to help openSUSE testers find bugs before release.  
@@ -38,7 +38,7 @@ If you're already running openSUSE you can upgrade by booting from the DVD/USB a
 
 ## Documentation
 
-| openSUSE Startup Guide | Release Notes | License | Full Documentation |
+| [openSUSE Startup Guide](https://doc.opensuse.org/documentation/leap/startup/single-html/book.opensuse.startup/index.html) | [Release Notes](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/) | [License](https://en.opensuse.org/openSUSE:License) | [Full Documentation](https://doc.opensuse.org) |
 
 ## Verify your download before use
 
@@ -58,5 +58,3 @@ For more help verifing your download please read [Checksums Help](https://en.ope
 * Over 40GB of free hard drive space
 * Either a DVD drive or USB port for the installation media
 * Internet access is helpful, and required for the Network Installer
-
--->

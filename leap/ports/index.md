@@ -35,7 +35,7 @@ If you're already running openSUSE you can upgrade by booting from the DVD/USB a
 
 ## Documentation
 
-| openSUSE Startup Guide | Release Notes | License | Full Documentation |
+| [openSUSE Startup Guide](https://doc.opensuse.org/documentation/leap/startup/single-html/book.opensuse.startup/index.html) | [Release Notes](https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/42.1/) | [License](https://en.opensuse.org/openSUSE:License) | [Full Documentation](https://doc.opensuse.org) |
 
 ## Verify your download before use
 
