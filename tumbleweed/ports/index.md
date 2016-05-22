@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tumbleweed Ports
-subtitle: Download alternative architecture of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
+subtitle: Download alternative architectures of the rolling version of openSUSE, for desktop PCs, laptops, and servers. 
 ---
 ## Installation Media - Intel 32-bit (i586)
 
