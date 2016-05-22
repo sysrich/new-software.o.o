@@ -3,12 +3,15 @@ layout: page
 title: Test openSUSE
 subtitle: Help test the next version of openSUSE Leap, the regular-release distribution for desktop PCs, laptops, and servers. 
 ---
-<!---
+<!--
 # No new version of Leap is currently being tested, thanks for your interest!
 
 Please join the opensuse-factory@opensuse.org [Mailing List](https://en.opensuse.org/openSUSE:Mailing_lists) and keep an eye on [openSUSE News](https://news.opensuse.org) for news & discussion about openSUSE's developments.
---->
+-->
+
 # Currently testing openSUSE Leap 42.2 Alpha 1
+
+This is not a supported release. It is provided to help openSUSE Testers find bugs. [Please report any issues you find in our Bugtracker.](https://en.opensuse.org/openSUSE:Submitting_bug_reports)
 
 ## Installation Media - Intel 64-bit (x86_64)
 
